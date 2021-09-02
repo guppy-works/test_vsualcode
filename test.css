@@ -1,8 +1,9 @@
-
 <style>
 
-.title { color: crimson;
-}
+h1  { 
+    color: blue;
+ }
 
-.para { background-color: darkkhaki;}
+p { background-color: darkkhaki;
+    color: red;}
 </style>
